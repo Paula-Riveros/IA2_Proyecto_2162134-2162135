@@ -1,5 +1,7 @@
 # Restauración de imágenes borrosas aplicando transferencia de aprendizaje
 
+<img src="IA2_P-Banner_2162134-2162135.png" style="width:100%;"> 
+
 #### Integrantes
 
 * Emmanuel David Martínez Estrada
