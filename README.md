@@ -1,1 +1,1 @@
-# IA2_Proyecto_2162134-2162135
+# Restauración de imágenes borrosas aplicando transferencia de aprendizaje
