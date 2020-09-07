@@ -1,0 +1,5 @@
+Open images v6:
+https://storage.googleapis.com/openimages/web/index.html
+
+Blur dataset:
+https://www.kaggle.com/kwentar/blur-dataset
